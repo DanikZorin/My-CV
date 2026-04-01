@@ -13,7 +13,16 @@
 ## Навыки
 * **Языки программирования:** С/C++, Java, Python, JavaScript
 * **Работа с технологиями:** Qt, BOOST, NetBeans.
-* **Дополнительно:** git, GitHub. Markdown. make. HTML/CSS. Jupyter Notebook. Создание установщиков при помощи InnoSetup. unit-тестирование google-test и boost-test, обертка java приложений в бинарные `.exe` файлы.
+* **Дополнительные навыки:**
+  * git
+  * GitHub
+  * Markdown
+  * make
+  * HTML/CSS
+  * Базы данных SQLite
+  * Jupyter Notebook
+  * Создание установщиков ПО
+  * unit-тестирование: google-test и boost-test
 
 ## Опыт работы и пет проекты
 
@@ -51,4 +60,4 @@
 * Участник конкурса "100 идей для Беларуси" 2024г.
 
 ---
-Версия от 15.03.2026
+Версия от 01.04.2026
